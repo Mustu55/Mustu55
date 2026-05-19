@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building AI-powered products, full-stack web applications, and practical tech solutions that solve real-world problems. Currently focused on AI/ML, MERN stack development, and scalable user-centric platforms.<br><br>👯 I’m looking to collaborate on<br>Open-source AI tools, innovative hackathon projects, SaaS products, and impactful startup ideas involving Web Development, Machine Learning, or Automation.<br><br>🤝 I’m looking for help with<br>Advanced AI engineering, scalable backend architecture, DevOps practices, and transforming ambitious ideas into production-ready products.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, System Design, Backend Optimization, and modern development workflows to bridge the gap between engineering and intelligent systems.<br><br>💬 Ask me about<br>AI/ML, MERN Stack, hackathons, GitHub projects, productivity systems, tech communities, or building projects from scratch with a strong problem-solving mindset.<br><br>⚡ Fun fact<br>I enjoy turning ambitious ideas into working products — from AI-powered education platforms to real-world problem-solving tools — and I genuinely treat hackathons like startup simulations, not just competitions.<br>
+🔭 Building AI-powered products, full-stack web applications, and scalable user-centric platforms focused on AI/ML & MERN Stack.
+👯 Looking to collaborate on open-source AI tools, hackathon projects, SaaS products, and impactful startup ideas in Web Development, Machine Learning, and Automation.
+🤝 Looking for help with advanced AI engineering, scalable backend architecture, DevOps, and production-ready system design.
+🌱 Currently learning Machine Learning, Deep Learning, System Design, Backend Optimization, and modern development workflows.
+💬 Ask me about AI/ML, MERN Stack, hackathons, GitHub projects, tech communities, and building products from scratch.
+⚡ Fun fact: I treat hackathons like startup simulations and enjoy turning ambitious ideas into real working products.<br>
 
 
 ## 🌐 Socials:
