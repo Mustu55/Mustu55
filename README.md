@@ -23,10 +23,3 @@
 [![](https://komarev.com/ghpvc/?username=Mustu55&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mustu55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Mustu55&icon=6&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
