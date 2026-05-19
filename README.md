@@ -1,9 +1,15 @@
 # 💫 About Me:
+
 🔭 Building AI-powered products, full-stack web applications, and scalable user-centric platforms focused on AI/ML & MERN Stack.
+
 👯 Looking to collaborate on open-source AI tools, hackathon projects, SaaS products, and impactful startup ideas in Web Development, Machine Learning, and Automation.
+
 🤝 Looking for help with advanced AI engineering, scalable backend architecture, DevOps, and production-ready system design.
+
 🌱 Currently learning Machine Learning, Deep Learning, System Design, Backend Optimization, and modern development workflows.
+
 💬 Ask me about AI/ML, MERN Stack, hackathons, GitHub projects, tech communities, and building products from scratch.
+
 ⚡ Fun fact: I treat hackathons like startup simulations and enjoy turning ambitious ideas into real working products.<br>
 
 
